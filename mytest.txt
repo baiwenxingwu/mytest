@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+﻿
 zxv
 asd
 qwe
-=======
+
 zxv
->>>>>>> parent of 40caa8f... 向mytest.txt中添加内容
+
